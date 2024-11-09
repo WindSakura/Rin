@@ -4,19 +4,10 @@
 @font-face {
   font-family: "MiSans";
   font-style: normal;
-  font-display: swap;
+  font-display: auto;
   font-weight: 400;
   src: url("/fonts/MiSans-Regular.woff2") format("woff2"),
        url("/fonts/MiSans-Regular.ttf") format("truetype");
-}
-
-@font-face {
-  font-family: "MiSans";
-  font-style: normal;
-  font-display: swap;
-  font-weight: 700;
-  src: url("/fonts/MiSans-Bold.woff2") format("woff2"),
-       url("/fonts/MiSans-Bold.ttf") format("truetype");
 }
 
 body {
